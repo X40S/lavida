@@ -1,0 +1,342 @@
+ @media (max-width: 955px) {
+     .slider {
+         width: 700px;
+         height: 468px;
+         top: 0px;
+     }
+     .slide-img img {
+         width: 400px;
+     }
+     .background img {
+         width: 400px;
+     }
+     .slide-design {
+         height: 400px;
+     }
+     .slide-descr {
+         top: 40%;
+         padding-left: 5px;
+         width: 257px;
+         font-size: 15px;
+     }
+     .slide-header {
+         font-size: 25px;
+         top: 33%;
+         padding-left: 5px;
+     }
+     .service-header {
+         margin-top: -100px;
+     }
+     .container-logo {
+         margin-top: 25px;
+         padding-left: 30px;
+     }
+     .container-logo img {
+         height: 150px;
+     }
+     .container-inner {
+         height: 200px;
+     }
+     .container-descr {
+         padding-top: 60px;
+     }
+     .about__dicr {
+         width: 540px;
+     }
+     .about__dicr {
+         width: 435px;
+         font-size: 14px;
+     }
+     .about__header {
+         padding-top: 50px;
+     }
+ }
+
+ @media (max-width: 759px) {
+     .menu__list {
+         display: none;
+         position: absolute;
+         top: 41px;
+         left: 0;
+         right: 0;
+         text-align: center;
+         border-top: 1px solid #263238;
+         z-index: 5;
+         font-size: 18px;
+     }
+     .menu__list img {
+         display: none;
+     }
+     .menu__list li {
+         margin-left: 0;
+     }
+     .menu__list a {
+         display: block;
+         padding: 10px 0;
+         border-bottom: 1px solid #263238;
+         background-color: #fff;
+     }
+     .btn__menu {
+         display: block;
+     }
+     .menu__list-contact {
+         padding-right: 0;
+         margin-top: 0;
+     }
+     .menu__list-portfolio {
+         padding-right: 0;
+         margin-top: 0;
+     }
+     .menu__list-service {
+         padding-right: 0;
+         margin-top: 0;
+     }
+     .menu__list-about {
+         padding-right: 0;
+         margin-top: 0;
+     }
+     .menu__list-about:hover::before, .menu__list-about:hover::after {
+         width: 0;
+     }
+     .menu__list-service:hover::before, .menu__list-service:hover::after {
+         width: 0;
+     }
+     .menu__list-portfolio:hover::before, .menu__list-portfolio:hover::after {
+         width: 0;
+     }
+     .menu__list-contact:hover::before, .menu__list-contact:hover::after {
+         width: 0;
+     }
+     .menu__list a {
+         color: #263238;
+     }
+     .logo img {
+         width: 38px;
+     }
+     .logo {
+         padding-top: 1px;
+         padding-left: 3px;
+     }
+     .design-inner {
+         padding-top: 15px;
+     }
+     .lavida {
+         margin-left: 5px;
+     }
+     .smm {
+         margin-left: 5px;
+     }
+     .slider {
+         top: -50px;
+         width: 600px;
+         height: 406px;
+         border-bottom: solid 40px #dddddd;
+     }
+     .slide-descr {
+         width: 197px;
+         font-size: 14px;
+     }
+     .slide-img img {
+         width: 350px;
+     }
+     .slide-design {
+         height: 347px;
+     }
+     .slick-next, .slick-prev {
+         width: 20px;
+         height: 20px;
+     }
+     .slick-dots {
+         bottom: -39px;
+     }
+     .service-header {
+         margin-top: -180px;
+     }
+ }
+
+ @media (max-width: 635px) {
+     .slide-img img {
+         width: 500px;
+     }
+     .slider {
+         top: 40px;
+         width: 540px;
+         height: 648px;
+     }
+     .slide-descr {
+         width: 500px;
+         font-size: 14px;
+         top: 535px;
+         margin-left: -3px;
+         background-color: #263238;
+         height: 53px;
+         padding-left: 6px;
+     }
+     .slide-header {
+         top: 503px;
+         padding-left: 6px;
+         background-color: #263238;
+         margin-left: -3px;
+         height: 300px;
+         width: 500px;
+         padding-top: 6px;
+         margin-top: -6px;
+     }
+     .service-header {
+         margin-top: 20px;
+     }
+ }
+
+ @media (max-width: 580px) {
+     .slide-img img {
+         width: 370px;
+     }
+     .slider {
+         width: 390px;
+         height: 530px;
+         top: -10px;
+         border: solid 10px #dddddd;
+         border-bottom: solid 35px #dddddd;
+     }
+     .slide-header {
+         top: 354px;
+         margin-left: -3px;
+     }
+     .slide-descr {
+         width: 355px;
+         top: 385px;
+     }
+     .service-header {
+         margin-top: -90px;
+     }
+     .container-logo img {
+         height: 100px;
+     }
+     .container-inner {
+         height: 100px;
+     }
+     .container-descr {
+         text-align: left;
+         padding-left: 5px;
+         padding-top: 10px;
+         font-size: 14px;
+     }
+     .container-logo img {
+         margin-top: -17px;
+         height: 80px;
+     }
+     .about__dicr {
+         width: 400px;
+     }
+     .container-logo{
+        margin-right: 10px;
+     }
+ }
+
+ @media (max-width: 440px) {
+     .slide-img img {
+         width: 300px;
+     }
+     .slider {
+         width: 320px;
+         height: 470px;
+     }
+     .slide-header {
+         top: 304px;
+     }
+     .slide-descr {
+         width: 292px;
+         top: 334px;
+         padding-left: 6px;
+     }
+     .slick-next, .slick-prev {
+         width: 15px;
+         height: 15px;
+     }
+     .service-header {
+         margin-top: -130px;
+     }
+     .container-logo img {
+         margin-top: -4px;
+         height: 60px;
+     }
+     .about__dicr {
+         width: 330px;
+         padding-top: 30px;
+     }
+     
+     .about__dicr-container {
+        height: 160px;
+     }
+     .contact__social-block img {
+         height: 15px;
+     }
+    
+ }
+
+ @media (max-width: 361px) {
+     .slider {
+         width: 280px;
+         height: 444px;
+     }
+     .slide-img img {
+         width: 260px;
+     }
+     .slide-header {
+         top: 264px;
+     }
+     .slide-descr {
+         width: 256px;
+         top: 294px;
+     }
+     .container-logo {
+         padding-left: 10px;
+     }
+     .container-descr {
+         font-size: 12px;
+     }
+     .about__dicr {
+         font-size: 12px;
+         width: 300px;
+         padding-top: 20px
+     }
+    .about__dicr-container {
+        height: 130px;
+    }
+    .social__face {
+        padding-left: 75px;
+    }
+    .social__wp {
+        padding-left: 10px;
+    }
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media (min-width: 759px) {
+     .menu__list {
+         display: flex !important;
+     }
+ }
